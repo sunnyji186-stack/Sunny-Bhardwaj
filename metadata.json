@@ -1,0 +1,6 @@
+{
+  "name": "All in One",
+  "description": "Unified ad-supported OTT streaming hub merging Netflix, Amazon Prime, Jio Cinema, Disney+ Hotstar, and Zee5 on a single platform without subscriptions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
